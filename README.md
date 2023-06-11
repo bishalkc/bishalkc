@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [AWS](https://aws.amazon.com), [Terraform](https://www.terraform.io), [Docker](https://www.docker.com), [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/) and many other fun projects.
 
-- 👨‍💻 All of my projects are available at [here]([https://www.github.com/bishalkc](https://www.github.com/bishalkc?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://www.github.com/bishalkc?tab=repositories)
 
 - 📫 How to reach me **bishalkc@gmail.com**
 
