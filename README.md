@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/bishalkc" target="blank"><img src="https://img.shields.io/twitter/follow/bishalkc?logo=twitter&style=for-the-badge" alt="bishalkc" /></a> </p>
 
-- 🔭 I’m currently working on **AWS, Terraform, Docker, Ansible, Prometheus, Grafana and many other fun projects.**
+- 🔭 I’m currently working on [AWS](https://aws.amazon.com), [Terraform](https://www.terraform.io), [Docker](https://www.docker.com), [Prometheus](https://prometheus.io/), [Grafana](https://grafana.com/) and many other fun projects.
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/bishalkc](https://www.github.com/bishalkc)
 
